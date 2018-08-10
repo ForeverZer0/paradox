@@ -7,7 +7,7 @@
 /spec/reports/
 /tmp/
 /test/
-/.idea/
+.idea/
 /.vscode/
 *.bundle
 *.so
