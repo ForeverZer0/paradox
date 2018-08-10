@@ -6,6 +6,9 @@
 /pkg/
 /spec/reports/
 /tmp/
+/test/
+/.idea/
+/.vscode/
 *.bundle
 *.so
 *.o
